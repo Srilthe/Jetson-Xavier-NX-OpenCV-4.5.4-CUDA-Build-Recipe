@@ -1,0 +1,52 @@
+hi  cuda-cccl-11-4                             11.4.298-1                            arm64        CUDA CCCL
+hi  cuda-command-line-tools-11-4               11.4.19-1                             arm64        CUDA command-line tools
+hi  cuda-compiler-11-4                         11.4.19-1                             arm64        CUDA compiler
+hi  cuda-cudart-11-4                           11.4.298-1                            arm64        CUDA Runtime native Libraries
+hi  cuda-cudart-dev-11-4                       11.4.298-1                            arm64        CUDA Runtime native dev links, headers
+hi  cuda-cuobjdump-11-4                        11.4.315-1                            arm64        CUDA cuobjdump
+hi  cuda-cupti-11-4                            11.4.298-1                            arm64        CUDA profiling tools runtime libs.
+hi  cuda-cupti-dev-11-4                        11.4.298-1                            arm64        CUDA profiling tools interface.
+hi  cuda-cuxxfilt-11-4                         11.4.300-1                            arm64        CUDA cuxxfilt
+hi  cuda-documentation-11-4                    11.4.298-1                            arm64        CUDA documentation
+hi  cuda-driver-dev-11-4                       11.4.298-1                            arm64        CUDA Driver native dev stub library
+hi  cuda-gdb-11-4                              11.4.298-1                            arm64        CUDA-GDB
+hi  cuda-libraries-11-4                        11.4.19-1                             arm64        CUDA Libraries 11.4 meta-package
+hi  cuda-libraries-dev-11-4                    11.4.19-1                             arm64        CUDA Libraries 11.4 development meta-package
+hi  cuda-nvcc-11-4                             11.4.315-1                            arm64        CUDA nvcc
+hi  cuda-nvdisasm-11-4                         11.4.298-1                            arm64        CUDA disassembler
+hi  cuda-nvml-dev-11-4                         11.4.298-1                            arm64        NVML native dev links, headers
+hi  cuda-nvprune-11-4                          11.4.298-1                            arm64        CUDA nvprune
+hi  cuda-nvrtc-11-4                            11.4.300-1                            arm64        NVRTC native runtime libraries
+hi  cuda-nvrtc-dev-11-4                        11.4.300-1                            arm64        NVRTC native dev links, headers
+hi  cuda-nvtx-11-4                             11.4.300-1                            arm64        NVIDIA Tools Extension
+hi  cuda-profiler-api-11-4                     11.4.298-1                            arm64        CUDA Profiler API
+hi  cuda-runtime-11-4                          11.4.19-1                             arm64        CUDA Runtime 11.4 meta-package
+hi  cuda-samples-11-4                          11.4.300-1                            arm64        CUDA example applications
+hi  cuda-sanitizer-11-4                        11.4.298-1                            arm64        CUDA Sanitizer
+hi  cuda-toolkit-11-4                          11.4.19-1                             arm64        CUDA Toolkit 11.4 meta-package
+hi  cuda-toolkit-11-4-config-common            11.4.298-1                            all          Common config package for CUDA Toolkit 11.4.
+hi  cuda-toolkit-11-config-common              11.4.298-1                            all          Common config package for CUDA Toolkit 11.
+hi  cuda-toolkit-config-common                 11.4.298-1                            all          Common config package for CUDA Toolkit.
+hi  cuda-tools-11-4                            11.4.19-1                             arm64        CUDA Tools meta-package
+hi  cuda-visual-tools-11-4                     11.4.19-1                             arm64        CUDA visual tools
+hi  graphsurgeon-tf                            8.5.2-1+cuda11.4                      arm64        GraphSurgeon for TensorRT package
+hi  libcudnn8                                  8.6.0.166-1+cuda11.4                  arm64        cuDNN runtime libraries
+hi  libcudnn8-dev                              8.6.0.166-1+cuda11.4                  arm64        cuDNN development libraries and headers
+hi  libcudnn8-samples                          8.6.0.166-1+cuda11.4                  arm64        cuDNN samples
+hi  libnvinfer-bin                             8.5.2-1+cuda11.4                      arm64        TensorRT binaries
+hi  libnvinfer-dev                             8.5.2-1+cuda11.4                      arm64        TensorRT development libraries and headers
+hi  libnvinfer-plugin-dev                      8.5.2-1+cuda11.4                      arm64        TensorRT plugin libraries
+hi  libnvinfer-plugin8                         8.5.2-1+cuda11.4                      arm64        TensorRT plugin libraries
+hi  libnvinfer-samples                         8.5.2-1+cuda11.4                      all          TensorRT samples
+hi  libnvinfer8                                8.5.2-1+cuda11.4                      arm64        TensorRT runtime libraries
+hi  libnvonnxparsers-dev                       8.5.2-1+cuda11.4                      arm64        TensorRT ONNX libraries
+hi  libnvonnxparsers8                          8.5.2-1+cuda11.4                      arm64        TensorRT ONNX libraries
+hi  libnvparsers-dev                           8.5.2-1+cuda11.4                      arm64        TensorRT parsers libraries
+hi  libnvparsers8                              8.5.2-1+cuda11.4                      arm64        TensorRT parsers libraries
+hi  nvidia-l4t-cuda                            35.6.1-20250304015758                 arm64        NVIDIA CUDA Package
+hi  onnx-graphsurgeon                          8.5.2-1+cuda11.4                      arm64        ONNX GraphSurgeon for TensorRT package
+hi  python3-libnvinfer                         8.5.2-1+cuda11.4                      arm64        Python 3 bindings for TensorRT
+hi  python3-libnvinfer-dev                     8.5.2-1+cuda11.4                      arm64        Python 3 development package for TensorRT
+hi  tensorrt                                   8.5.2.2-1+cuda11.4                    arm64        Meta package for TensorRT
+hi  tensorrt-libs                              8.5.2.2-1+cuda11.4                    arm64        Meta package for TensorRT runtime libraries
+hi  uff-converter-tf                           8.5.2-1+cuda11.4                      arm64        UFF converter for TensorRT package

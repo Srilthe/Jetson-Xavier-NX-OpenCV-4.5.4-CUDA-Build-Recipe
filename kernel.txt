@@ -1,0 +1,1 @@
+Linux jetson-nx 5.10.216-tegra #1 SMP PREEMPT Tue Mar 4 01:35:16 PST 2025 aarch64 aarch64 aarch64 GNU/Linux
